@@ -8,7 +8,7 @@ The unique identifier (API key) of the website will be provided by DikeShield du
 
 Each request must include the `api-key` header containing your API key.
 
-Each API key has a whitelist of allowed domains and IPs. Before the integration you must provide the following information to administrator:
+Each API key has a whitelist of allowed domains and IPs. Before the integration you must provide the following information to administrator's email along with the website name:
 
 1. A list of domains of the `redirect_url` (up to 3 domains).
 2. A list of domains of the `callback_url` (up to 3 domains).
