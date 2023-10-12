@@ -261,7 +261,7 @@ Customers can pay with their local currencies, and their banks will automaticall
 
 ### What countries are available for charge? 
 
-All countries except the restricted ones.
+All countries except the [restricted ones](https://github.com/KievTrans/ds-docs-api-v3/blob/main/restricted-countries.md).
 
 ---
 
