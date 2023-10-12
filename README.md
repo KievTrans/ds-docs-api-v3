@@ -284,6 +284,8 @@ All countries except the [restricted ones](https://github.com/KievTrans/ds-docs-
 
 ### 3.0 (2023-10-12)
 
+- Only whitelisted IPs are available for use while making requests to API. Read more in Authorization section.
+- Only whitelisted domains are available for use in the `payment` method. Read more in Authorization section.
 - Removed `success_url` and `failed_url` parameters from the `payment` method.
 - Added `redurect_url` parameter to the `payment` method.
 - Changed endpoint URL to `https://api.dshield.co/v3/`.
